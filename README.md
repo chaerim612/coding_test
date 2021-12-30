@@ -1,2 +1,2 @@
-# coding_test
-코딩테스트
+# CODING TEST
+- 알고리즘 공부용
